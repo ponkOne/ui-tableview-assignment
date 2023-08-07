@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  tableView
-//
-//  Created by Sean Walker on 07/08/2023.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
